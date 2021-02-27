@@ -1,0 +1,12 @@
+{
+    "apps": [
+        {
+            "name": "Silverbird Dashboard",
+            "script": "./index.js",
+            "watch": true,
+            "env": {
+                "NODE_ENV": "production"
+            }
+        }
+    ]
+}
